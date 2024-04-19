@@ -1,4 +1,6 @@
 # NolanProjectV2
+2 dosya unblock hatasi veriyor onlari ozelliklerden unblock yapmaniz lazim 
+
  Öğrenci Kayıt Uygulaması niteliğinde Windows Form Uygulamasi
 Sinema Seans Takip Uygulaması
 Proje Hakkında
